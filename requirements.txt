@@ -1,0 +1,4 @@
+uvicorn=0.23.1
+fastapi=0.100.0
+starlette_context=0.3.6
+starlette=starlette
